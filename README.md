@@ -12,3 +12,7 @@ You can easily implement the algorithm into any language or application. Downloa
 This code will not receive further updates.
 
 Hope you can find it useful. 
+
+# Authors
+
+* **Juan Pablo Gutiérrez** - [AndromedaHelix](https://github.com/AndromedaHelix)
